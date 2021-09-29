@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aarish
+- 👋 Hi, I’m @Aarish!
 - 👀 I’m interested in Machine Learning and automating tasks via ML and AI.
-- 🌱 I’m currently learning ML and Android Dev.
+- 🌱 I’m currently learning ML and Android Development.
 - 💞️ I’m looking to collaborate on making a general AI assistant.
 - 📫 My email is aarishm767@gmail.com
 
