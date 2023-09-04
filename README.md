@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Aarish!
-- 👀 I’m Java programmer and I am also interested in Cyber Security.
-- 🌱 I’m currently learning Java hibernate.
-- 📫 My email is aarishm767@gmail.com
+- 👀 I am a Java backend developer.
+- 👀 I have a strong hold of Spring Boot framework.
+- 🌱 I’m currently learning Cloud related tech.
+- 📫 My email is aarishm767@gmail.com.
 
 <!---
 Aaarish/Aaarish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
